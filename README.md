@@ -1,1 +1,2 @@
 # sapana-kami
+Hi, I'm Sapana Kami, a B.Tech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning at REVA University. I am developing my skills in programming, software development, artificial intelligence, and machine learning through academic learning and practical projects. I use GitHub to document my learning journey, build projects, collaborate with others, and develop a professional portfolio as I prepare for future opportunities in technology.
