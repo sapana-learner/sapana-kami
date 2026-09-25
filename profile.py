@@ -29,6 +29,19 @@ skills = [
     "Time Management"
 ]
 
+goals = [
+    "Build practical AI and ML projects",
+    "Strengthen programming fundamentals",
+    "Contribute to collaborative projects",
+    "Develop a strong professional portfolio"
+]
+
+print("\nCurrent Goals")
+print("------------")
+
+for goal in goals:
+    print(f"- {goal}")
+
 print("\nTechnical Skills")
 print("----------------")
 
