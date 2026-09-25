@@ -16,3 +16,21 @@ print("----------------")
 
 for key, value in student.items():
     print(f"{key.title()}: {value}")
+
+skills = [
+    "Python",
+    "C",
+    "Git and GitHub",
+    "Problem Solving",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "HTML",
+    "Communication Skills",
+    "Time Management"
+]
+
+print("\nTechnical Skills")
+print("----------------")
+
+for skill in skills:
+    print(f"- {skill}")
